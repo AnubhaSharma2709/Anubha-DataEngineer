@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait photo placeholder</title><desc id="desc">A neutral portrait silhouette to replace with Anubha's photo.</desc>
+  <rect width="160" height="160" rx="80" fill="#eef1f6"/>
+  <circle cx="80" cy="59" r="27" fill="#cbd3df"/>
+  <path d="M30 145c4-31 22-48 50-48s46 17 50 48" fill="#cbd3df"/>
+  <circle cx="130" cy="126" r="18" fill="#5478d4"/>
+  <path d="M130 117v18m-9-9h18" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
