@@ -1,7 +1,4 @@
-# Anubha Sharma — Portfolio
-<<<<<<< HEAD
-It brings together Anubha’s work across data, software, product analytics, and UX design, with an interactive data pipeline, project case studies, an accessible interface, and a local portfolio assistant.
-=======
+
 
 A responsive, editorial-style personal portfolio built with HTML, CSS, and vanilla JavaScript. It brings together Anubha’s work across data, software, product analytics, and UX design, with an interactive data pipeline, project case studies, an accessible interface, and a local portfolio assistant.
 
