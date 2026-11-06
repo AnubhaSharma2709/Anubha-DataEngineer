@@ -1,16 +1,14 @@
 /* Add one verified, published entry per learning day. Dates use YYYY-MM-DD. */
 window.LEARNING_JOURNAL = {
-  entries: [
-    /*
-    {
-      date: '2026-11-06',
-      topic: 'Topic studied',
-      tags: ['SQL', 'Databases'],
-      lesson: { explanation: 'What you learned...', takeaways: ['Key point'], examples: ['Example'] },
-      questions: [{ name: 'Problem name', statement: 'Problem statement', platform: 'Platform', difficulty: 'Easy', approach: 'Approach', steps: ['Step'], dryRun: 'Example or dry run', originalCode: '', correctedCode: '', time: 'O(n)', space: 'O(1)' }],
-      code: { language: 'sql', source: 'SELECT 1;', explanation: ['Important line explanation'] },
-      interviewQuestions: [{ question: 'Interview question?', answer: 'Answer...' }]
-    }
-    */
-  ]
+  entries: [{
+    date: '2026-11-06',
+    topic: 'Day 01 — Starting My Data Engineering Journey',
+    summary: 'A first day across Big Data fundamentals, Python DSA practice, and a Google Cloud data transformation lab.',
+    tags: ['Data Engineering', 'Python DSA', 'Google Cloud'],
+    markdownFile: 'journal/day-01.md',
+    questions: [
+      { name: 'Prime Number', platform: 'LeetCode / GeeksforGeeks', difficulty: 'Practice' },
+      { name: 'Add Digits', platform: 'LeetCode / GeeksforGeeks', difficulty: 'Practice' }
+    ]
+  }]
 };
